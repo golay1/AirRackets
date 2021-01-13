@@ -6,7 +6,7 @@ For learning purposes the project was recreated 3 different times:
 2: php files,
 3: Laravel framework.
 
-Database was managed through XAMPP and phpmyadmin. The final project is hosted on UTA cloud. You can create an account with any email and check it out here: http://gdn8015.uta.cloud/laravel/index
+Database was managed through XAMPP and phpmyadmin. The final project is hosted on UTA cloud: http://gdn8015.uta.cloud/laravel/index
 
 You can use these accounts to login:
 
