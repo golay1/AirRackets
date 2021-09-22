@@ -1,5 +1,5 @@
 # AirRackets
-Web development project for web data management class: a racquetball club and social media website.
+PHP - Laravel racquetball club website
 
 For learning purposes the project was recreated 3 different times:
 1: css/html files,
